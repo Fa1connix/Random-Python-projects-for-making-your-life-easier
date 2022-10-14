@@ -4,4 +4,5 @@ All of my code is original and open-source. I do request that all remakes that a
 For the autoclicker, you will need to install the following respitories;
 
 pip install threaded 
+
 pip install pynput
